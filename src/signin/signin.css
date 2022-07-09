@@ -1,0 +1,45 @@
+
+.title{
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.signin{
+    text-align: center;
+    top: 50%;
+    padding-top: 15px;
+    color: whitesmoke;
+
+    border-collapse: collapse;
+    margin: 0px;
+}
+
+
+.int-area{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(40, 40, 40);
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 5px;
+}
+.int-area:focus{
+    outline: none;
+    color: white;
+    border-color: red;
+}
+.loginBtn{
+    width: 300px;
+    height: 30px;
+    background-color: darkslategray;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+.caption{
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+}

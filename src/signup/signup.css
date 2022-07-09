@@ -1,0 +1,45 @@
+.title2{
+    padding-top: 40px; 
+    color: white; 
+    text-align: center;
+}
+
+.information{
+    text-align: center;
+    top: 50%;
+    padding-top: 75px;
+    color: whitesmoke;
+
+    border-collapse: collapse;
+    margin: 0px;
+}
+
+.int-area2{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.inputInfo {
+    width: 300px;
+    height: 30px;
+    background-color: rgb(40, 40, 40);
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 5px;
+}
+.inputInfo:focus{
+    outline: none;
+    color: white;
+}
+
+
+/*----------------------------------------*/
+
+.signUpBtn{
+    width: 300px;
+    height: 30px;
+    background-color: darkslategray;
+    color: whitesmoke;
+    border-radius: 5px;
+}
